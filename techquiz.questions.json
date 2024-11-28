@@ -1,0 +1,720 @@
+[{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9020"
+  },
+  "question": "What is the output of print(2 ** 3)?",
+  "answers": [
+    {
+      "text": "6",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9021"
+      }
+    },
+    {
+      "text": "8",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9022"
+      }
+    },
+    {
+      "text": "9",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9023"
+      }
+    },
+    {
+      "text": "12",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9024"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9025"
+  },
+  "question": "Which of the following is a mutable data type in Python?",
+  "answers": [
+    {
+      "text": "str",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9026"
+      }
+    },
+    {
+      "text": "tuple",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9027"
+      }
+    },
+    {
+      "text": "list",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9028"
+      }
+    },
+    {
+      "text": "int",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9029"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f902a"
+  },
+  "question": "What is the keyword used to define a function in Python?",
+  "answers": [
+    {
+      "text": "function",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f902b"
+      }
+    },
+    {
+      "text": "func",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f902c"
+      }
+    },
+    {
+      "text": "def",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f902d"
+      }
+    },
+    {
+      "text": "define",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f902e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f902f"
+  },
+  "question": "Which of the following is used to create an empty set?",
+  "answers": [
+    {
+      "text": "{}",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9030"
+      }
+    },
+    {
+      "text": "[]",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9031"
+      }
+    },
+    {
+      "text": "set()",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9032"
+      }
+    },
+    {
+      "text": "()",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9033"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9034"
+  },
+  "question": "What is the output of len('hello world')?",
+  "answers": [
+    {
+      "text": "10",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9035"
+      }
+    },
+    {
+      "text": "11",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9036"
+      }
+    },
+    {
+      "text": "12",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9037"
+      }
+    },
+    {
+      "text": "13",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9038"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9039"
+  },
+  "question": "Which method is used to remove whitespace from the beginning and end of a string?",
+  "answers": [
+    {
+      "text": "strip()",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f903a"
+      }
+    },
+    {
+      "text": "trim()",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f903b"
+      }
+    },
+    {
+      "text": "clean()",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f903c"
+      }
+    },
+    {
+      "text": "remove()",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f903d"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f903e"
+  },
+  "question": "What does the // operator do in Python?",
+  "answers": [
+    {
+      "text": "Performs integer division",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f903f"
+      }
+    },
+    {
+      "text": "Performs floating-point division",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9040"
+      }
+    },
+    {
+      "text": "Calculates the power of a number",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9041"
+      }
+    },
+    {
+      "text": "Performs a logical AND operation",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9042"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9043"
+  },
+  "question": "Which of the following is a valid variable name in Python?",
+  "answers": [
+    {
+      "text": "1_variable",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9044"
+      }
+    },
+    {
+      "text": "variable_1",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9045"
+      }
+    },
+    {
+      "text": "variable-1",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9046"
+      }
+    },
+    {
+      "text": "variable 1",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9047"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9048"
+  },
+  "question": "What is the output of type(3.14)?",
+  "answers": [
+    {
+      "text": "<class 'int'>",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9049"
+      }
+    },
+    {
+      "text": "<class 'float'>",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f904a"
+      }
+    },
+    {
+      "text": "<class 'complex'>",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f904b"
+      }
+    },
+    {
+      "text": "<class 'decimal'>",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f904c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f904d"
+  },
+  "question": "Which of the following statements is used to handle exceptions in Python?",
+  "answers": [
+    {
+      "text": "catch",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f904e"
+      }
+    },
+    {
+      "text": "except",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f904f"
+      }
+    },
+    {
+      "text": "handle",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9050"
+      }
+    },
+    {
+      "text": "try",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9051"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9052"
+  },
+  "question": "What is the output of 'hello' + 'world'?",
+  "answers": [
+    {
+      "text": "hello world",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9053"
+      }
+    },
+    {
+      "text": "helloworld",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9054"
+      }
+    },
+    {
+      "text": "hello+world",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9055"
+      }
+    },
+    {
+      "text": "hello world!",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9056"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9057"
+  },
+  "question": "What does the range function do?",
+  "answers": [
+    {
+      "text": "Generates a list of numbers",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9058"
+      }
+    },
+    {
+      "text": "Creates an iterator that generates a sequence of numbers",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9059"
+      }
+    },
+    {
+      "text": "Creates a list of tuples",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f905a"
+      }
+    },
+    {
+      "text": "Generates random numbers",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f905b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f905c"
+  },
+  "question": "What is the correct syntax to create a dictionary in Python?",
+  "answers": [
+    {
+      "text": "{'name': 'John', 'age': 30}",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f905d"
+      }
+    },
+    {
+      "text": "<'name': 'John', 'age': 30>",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f905e"
+      }
+    },
+    {
+      "text": "['name': 'John', 'age': 30]",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f905f"
+      }
+    },
+    {
+      "text": "('name': 'John', 'age': 30)",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9060"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9061"
+  },
+  "question": "Which of the following can be used to create an empty list in Python?",
+  "answers": [
+    {
+      "text": "[]",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9062"
+      }
+    },
+    {
+      "text": "{}",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9063"
+      }
+    },
+    {
+      "text": "()",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9064"
+      }
+    },
+    {
+      "text": "set()",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9065"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9066"
+  },
+  "question": "What does the method append() do in a list?",
+  "answers": [
+    {
+      "text": "Adds a new element at the end of the list",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9067"
+      }
+    },
+    {
+      "text": "Removes the last element of the list",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9068"
+      }
+    },
+    {
+      "text": "Sorts the list in ascending order",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9069"
+      }
+    },
+    {
+      "text": "Removes all elements from the list",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f906a"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f906b"
+  },
+  "question": "How do you create a tuple in Python?",
+  "answers": [
+    {
+      "text": "[]",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f906c"
+      }
+    },
+    {
+      "text": "{}",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f906d"
+      }
+    },
+    {
+      "text": "()",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f906e"
+      }
+    },
+    {
+      "text": "tuple[]",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f906f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9070"
+  },
+  "question": "What is the output of print(3 == 3.0)?",
+  "answers": [
+    {
+      "text": "False",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9071"
+      }
+    },
+    {
+      "text": "True",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9072"
+      }
+    },
+    {
+      "text": "3",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9073"
+      }
+    },
+    {
+      "text": "3.0",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9074"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f9075"
+  },
+  "question": "What is the keyword to define a class in Python?",
+  "answers": [
+    {
+      "text": "function",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9076"
+      }
+    },
+    {
+      "text": "def",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9077"
+      }
+    },
+    {
+      "text": "class",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9078"
+      }
+    },
+    {
+      "text": "module",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9079"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f907a"
+  },
+  "question": "Which of the following is not a built-in data type in Python?",
+  "answers": [
+    {
+      "text": "list",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f907b"
+      }
+    },
+    {
+      "text": "dict",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f907c"
+      }
+    },
+    {
+      "text": "tuple",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f907d"
+      }
+    },
+    {
+      "text": "array",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f907e"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6742de07d11e0adad90f907f"
+  },
+  "question": "How do you start a comment in Python?",
+  "answers": [
+    {
+      "text": "//",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9080"
+      }
+    },
+    {
+      "text": "/*",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9081"
+      }
+    },
+    {
+      "text": "#",
+      "isCorrect": true,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9082"
+      }
+    },
+    {
+      "text": "<!--",
+      "isCorrect": false,
+      "_id": {
+        "$oid": "6742de07d11e0adad90f9083"
+      }
+    }
+  ]
+}]
